@@ -22,7 +22,7 @@ subtitle: Mini Autonomous Underwater Vehicle
     <td><b style="font-size:20px">Objetivos</td>
   </tr>
   <tr>
-    <td><img src="https://i.ibb.co/bgy2F7d/turbot-design.png" align="left" width="600" /></td>
+    <td><img src="https://i.ibb.co/L9Xsx4V/1.png" align="left" width="600" /></td>
     <td> Os principais objetivos são realizar o Estudo do Estado da Arte sobre temas relacionados, confeccionar o design da estrutura externa do veículo e realizar a sua simulação CFD, implementar funcionalidades de autonomia usando a prática de simulação em tempo real e a escrita de artigos relacionados às atividades desenvolvidas ao longo do projeto. </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@ subtitle: Mini Autonomous Underwater Vehicle
   </tr>
   <tr>
     <td>turBOT será capaz de  navegar em ambientes subaquáticos internos e externos de até 50 m de profundidade. Será capaz de identificar e desviar de obstáculos e irá possuir eficiência energética suficiente para executar por completo suas tarefas.</td>
-    <td><img src="https://i.ibb.co/bgy2F7d/turbot-design.png" align="left" width="600" /></td>
+    <td><img src="https://i.ibb.co/Bj2FzPy/2.png" align="right" width="400" /></td>
  </tr>
 </table>
 
@@ -43,22 +43,22 @@ subtitle: Mini Autonomous Underwater Vehicle
 <table border="0">
   <tr><td><b style="font-size:20px">Equipe</td></tr>
   <tr>
-    <td><b style="font-size:15px">Marco Reis</b></td>
-    <td><b style="font-size:15px">Leonardo Lima</b></td>
-    <td><b style="font-size:15px">Felipe Mohr</b></td>
-    <td><b style="font-size:15px">Vinícius Felismino</b></td>
+    <td><b style="font-size:15px"><center>Marco Reis</b></td>
+    <td><b style="font-size:15px"><center>Leonardo Lima</b></td>
+    <td><b style="font-size:15px"><center>Felipe Mohr</b></td>
+    <td><b style="font-size:15px"><center>Vinícius Felismino</b></td>
   </tr>
   <tr>
-    <td><img src="https://i.ibb.co/bgy2F7d/turbot-design.png" align="center" width="150" /></td>
-    <td><img src="https://i.ibb.co/bgy2F7d/turbot-design.png" align="center" width="150" /></td>
-    <td><img src="https://i.ibb.co/bgy2F7d/turbot-design.png" align="center" width="150" /></td>
-    <td><img src="https://i.ibb.co/bgy2F7d/turbot-design.png" align="center" width="150" /></td>
+    <td><center><img src="https://i.ibb.co/NtMVDR6/4.png" align="center" width="120" /></td>
+    <td><center><img src="https://i.ibb.co/P4hpvMS/7.png" align="center" width="120" /></td>
+    <td><center><img src="https://i.ibb.co/4FbfWkV/5.png" align="center" width="120" /></td>
+    <td><center><img src="https://i.ibb.co/TgvmX6N/6.png" align="center" width="120" /></td>
   </tr>
   <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
+    <td>Eng. Eletricista, lider de projetos e do laboratório de robótica e sistemas autonomos.</td>
+    <td>Eng. Eletricista, lider de projetos e do laboratório de robótica e sistemas autonomos.</td>
+    <td>Eng. Eletricista, lider de projetos e do laboratório de robótica e sistemas autonomos.</td>
+    <td>Eng. Eletricista, lider de projetos e do laboratório de robótica e sistemas autonomos.</td>
   </tr>
 </table>
 </p>
