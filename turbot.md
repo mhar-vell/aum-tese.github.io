@@ -10,7 +10,7 @@ subtitle: Mini Autonomous Underwater Vehicle
     <td></td>
   </tr>
   <tr>
-    <td> turBOT é um AUV (veículo subaquático autônomo) de pequenas dimensões feito para realizar pesquisas costeiras em águas rasas. O projeto é concebido pela parceria  entre o SENAI CIMATEC e a Universidade de San Diego, nos Estados Unidos. </td>
+    <td> turBOT é um veículo subaquático autônomo de pequenas dimensões feito para realizar pesquisas costeiras em águas rasas. O projeto é concebido pela parceria  entre o SENAI CIMATEC e a Universidade de San Diego, nos Estados Unidos. </td>
     <td><img src="https://i.ibb.co/bgy2F7d/turbot-design.png" align="center" width="600" /></td>
  </tr>
 </table>
@@ -30,7 +30,7 @@ subtitle: Mini Autonomous Underwater Vehicle
 <!-- ## Requisitos -->
 <table border="0">
   <tr>
-    <td><b style="font-size:20px">Requisitos</td>
+    <td><b style="font-size:20px">Principais características</td>
     <td></td>
   </tr>
   <tr>
@@ -45,20 +45,20 @@ subtitle: Mini Autonomous Underwater Vehicle
   <tr>
     <td><b style="font-size:15px"><center>Marco Reis</b></td>
     <td><b style="font-size:15px"><center>Leonardo Lima</b></td>
-    <td><b style="font-size:15px"><center>Felipe Mohr</b></td>
     <td><b style="font-size:15px"><center>Vinícius Felismino</b></td>
+    <td><b style="font-size:15px"><center>Felipe Mohr</b></td>
   </tr>
   <tr>
     <td><center><img src="https://i.ibb.co/NtMVDR6/4.png" align="center" width="120" /></td>
     <td><center><img src="https://i.ibb.co/P4hpvMS/7.png" align="center" width="120" /></td>
-    <td><center><img src="https://i.ibb.co/4FbfWkV/5.png" align="center" width="120" /></td>
     <td><center><img src="https://i.ibb.co/TgvmX6N/6.png" align="center" width="120" /></td>
+    <td><center><img src="https://i.ibb.co/4FbfWkV/5.png" align="center" width="120" /></td>
   </tr>
   <tr>
-    <td>Eng. Eletricista, lider de projetos e do laboratório de robótica e sistemas autonomos.</td>
-    <td>Eng. Eletricista, lider de projetos e do laboratório de robótica e sistemas autonomos.</td>
-    <td>Eng. Eletricista, lider de projetos e do laboratório de robótica e sistemas autonomos.</td>
-    <td>Eng. Eletricista, lider de projetos e do laboratório de robótica e sistemas autonomos.</td>
+    <td>Mestre em Engenharia de Produção e Eng. Eletricista. Líder do projeto turBOT e do RoSA</td>
+    <td>Engenheiro de Controle e Automação e especialista em robótica. Responsável pela simulação tempo real-time.</td>
+    <td>Engenheiro Mecânico e especialista em robótica. Responsável por desenhos e simulações CFD.</td>
+    <td>Graduando em Engenharia Elétrica. Suporte em etapas de desenvolvimento e pesquisa do projeto.</td>
   </tr>
 </table>
 </p>
@@ -69,7 +69,7 @@ subtitle: Mini Autonomous Underwater Vehicle
     <td><b style="font-size:20px"> Resultados alcançados</td>
   </tr>
   <tr>
-    <td> Até o momento, o projeto turBOT submeteu um resumo expandido à conferência <a href="https://global21.oceansconference.org">Global OCEANS 2021</a>, em San Diego. Ao longo de 2021 Espera-se participar de outras conferências e revistas como a <a href="https://ieeeoes.org/publications/ieee-journal-of-oceanic-engineering">IEEE Journal of Oceanic Engineering</a>.
+    <td> Até o momento, o projeto turBOT submeteu um resumo expandido à conferência <a href="https://global21.oceansconference.org">Global OCEANS 2021</a>, em San Diego. Ao longo de 2021 espera-se participar de outras conferências e revistas como a <a href="https://ieeeoes.org/publications/ieee-journal-of-oceanic-engineering">IEEE Journal of Oceanic Engineering</a>.
 </table>
 
 
