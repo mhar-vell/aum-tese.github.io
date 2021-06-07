@@ -36,7 +36,5 @@ A metodologia empregará um estudo dos algoritmos de planejamento de trajetória
 </table>
 
 ## Referências
-#### 1
-  SANTHAKUMAR, M.;  KIM, J. Robust adaptive tracking control of autonomousunderwater vehicle-manipulator systems.Journal  of  Dynamic  Systems,  Measurement,and Control, American Society of Mechanical Engineers Digital Collection, v. 136, n. 5,2014.  
-#### 2
-  [2] DANNIGAN, M.; RUSSELL, G. T. Evaluation and reduction of the dynamic couplingbetween a manipulator and an underwater vehicle.IEEE Journal of Oceanic Engineering,IEEE, v. 23, n. 3, p. 260–273, 1998.   
+##### 1 SANTHAKUMAR, M.;  KIM, J. Robust adaptive tracking control of autonomousunderwater vehicle-manipulator systems.Journal  of  Dynamic  Systems,  Measurement,and Control, American Society of Mechanical Engineers Digital Collection, v. 136, n. 5,2014.  
+##### 2 DANNIGAN, M.; RUSSELL, G. T. Evaluation and reduction of the dynamic couplingbetween a manipulator and an underwater vehicle.IEEE Journal of Oceanic Engineering,IEEE, v. 23, n. 3, p. 260–273, 1998.   
