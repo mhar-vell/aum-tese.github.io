@@ -30,7 +30,7 @@ subtitle: Mini Autonomous Underwater Vehicle
 <!-- ## Requisitos -->
 <table border="0">
   <tr>
-    <td><b style="font-size:20px">Principais características</td>
+    <td><b style="font-size:20px">Principais Características</td>
     <td></td>
   </tr>
   <tr>
@@ -56,7 +56,7 @@ subtitle: Mini Autonomous Underwater Vehicle
   </tr>
   <tr>
     <td>Mestre em Engenharia de Produção e Eng. Eletricista. Líder do projeto turBOT e do RoSA</td>
-    <td>Engenheiro de Controle e Automação e especialista em robótica. Responsável pela simulação tempo real-time.</td>
+    <td>Engenheiro de Controle e Automação e especialista em robótica. Responsável pela simulação real-time.</td>
     <td>Engenheiro Mecânico e especialista em robótica. Responsável por desenhos e simulações CFD.</td>
     <td>Graduando em Engenharia Elétrica. Suporte em etapas de desenvolvimento e pesquisa do projeto.</td>
   </tr>
