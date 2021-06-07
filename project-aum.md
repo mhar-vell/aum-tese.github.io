@@ -23,20 +23,22 @@ A metodologia empregará um estudo dos algoritmos de planejamento de trajetória
     <td><b style="font-size:15px"><center>Marco Reis</b></td>
   </tr>
   <tr>
-    <td><center><img ![Anderson Queiroz](/assets/img/marco.jpg "Anderson Queiroz") align="center" width="120" /></td>
+    <td><center><img src="https://i.ibb.co/JqmgmSv/brenda-circle.png" align="center" width="120" /></td>
     <td><center><img src="https://i.ibb.co/JqmgmSv/brenda-circle.png" align="center" width="120" /></td>
     <td><center><img src="https://i.ibb.co/NtMVDR6/4.png" align="center" width="120" /></td>
 
   </tr>
   <tr>
     <td><center> Engenheiro de Computação</td>
-    <td><center> Estagiária no CC RoSA, graduanda em Eng. Elétrica. Participou de projetos de Robótica Subaquática e Manipuladores Subaquáticos</td>
+    <td><center> Estagiária no CC RoSA, graduanda em Eng. Elétrica.   
+      Participou de projetos de Robótica Subaquática   
+      e Manipuladores Subaquáticos</td>
     <td><center>Mestre em Engenharia de Produção e Eng. Eletricista. Líder do projeto turBOT e do RoSA</td>
   </tr>
 </table>
 
 ## Referências
 ##### 1 
-SANTHAKUMAR, M.;  KIM, J. Robust adaptive tracking control of autonomousunderwater vehicle-manipulator systems.Journal  of  Dynamic  Systems,  Measurement,and Control, American Society of Mechanical Engineers Digital Collection, v. 136, n. 5,2014.  
+SANTHAKUMAR, M.;  KIM, J. Robust adaptive tracking control of autonomous underwater vehicle-manipulator systems.Journal  of  Dynamic  Systems,  Measurement,and Control, American Society of Mechanical Engineers Digital Collection, v. 136, n. 5,2014.  
 ##### 2 
-DANNIGAN, M.; RUSSELL, G. T. Evaluation and reduction of the dynamic couplingbetween a manipulator and an underwater vehicle.IEEE Journal of Oceanic Engineering,IEEE, v. 23, n. 3, p. 260–273, 1998.   
+DANNIGAN, M.; RUSSELL, G. T. Evaluation and reduction of the dynamic coupling between a manipulator and an underwater vehicle.IEEE Journal of Oceanic Engineering,IEEE, v. 23, n. 3, p. 260–273, 1998.   
