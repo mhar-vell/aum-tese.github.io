@@ -7,7 +7,7 @@ subtitle: Um robô bípede
 ## Introdução
 
 <!--img src="assets/img/walker/walker_semelhantes.png" width="350"-->
-![walker-semelhantes](https://github.com/mhar-vell/projects/blob/master/assets/img/walker/walker_semelhantes.png)
+![walker-semelhantes](https://i.ibb.co/NtMVDR6/4.png)
 
 Este projeto visa a construção de um robô autônomo bípede para exploração em um ambiente indoor controlado.
 
