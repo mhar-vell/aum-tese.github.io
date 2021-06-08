@@ -40,7 +40,7 @@ Dentre eles, os principais são:
 
 ## Equipe
 
-|<img src="assets/img/brenda_alencar.png" width="200">| <img src="assets/img/felipe_mohr.png" width="200">|
+|<img src="{{ 'assets/img/brenda_alencar.png' | relative_url }}" alt="Not found" />| <img src="assets/img/felipe_mohr.png" width="200">|
 |--|--|
 | <p align="center">**Brenda Alencar**</p> | <p align="center">**Felipe Mohr**</p> |
 | <p align="center"> Estagiária no CC RoSA, graduanda em Eng. Elétrica. <br /> Participou de projetos de Robótica Subaquática e <br /> Manipuladores Subaquáticos  </p>| <p align="center"> Estagiário no CC RoSA, graduando em Eng. Elétrica. <br /> Participou de projetos de Robótica Subaquática e <br /> Robótica Móvel </p> |
