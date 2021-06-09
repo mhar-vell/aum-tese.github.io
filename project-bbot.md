@@ -41,7 +41,7 @@ O **bbot** conta ainda com sensores que são responsáveis por aquisições de d
 
 ### EQUIPE DE DESENVOLVIMENTO
 
-| <figure><img src="assets/img/matheus_franca.jpeg" width="150" alt="Matheus França"> <figcaption>**Matheus França**</figcaption></figure> |     **Estagiário no laboratório de Robótica e Sistemas Autônomos (RoSA), Senai Cimatec, graduando em Engenharia de Controle e Automação na Área 1.**|
+| <figure><img src="assets/img/matheus_franca.jpeg" width="150" alt="Matheus França"> <figcaption>**Matheus França**</figcaption></figure>|**Estagiário no laboratório de Robótica e Sistemas Autônomos (RoSA), Senai Cimatec, graduando em Engenharia de Controle e Automação na Área 1.**|
 |----------------|-----------|
-| <figure><img src="assets/img/lucas_souza.jpeg" width="150" alt="Lucas Souza"> <figcaption>**Lucas Souza**</figcaption></figure>    |     **Estagiário no laboratório de Robótica e Sistemas Autônomos (RoSA), Senai Cimatec, graduando em Engenharia Elétrica no Senai**|   
-| <figure><img src="assets/img/marco.jpg" width="150" alt="Marco Reis"> <figcaption>**Marco Reis**</figcaption></figure>    |     **Lidera o grupo de Robótica e Sistemas Autônomos (RoSA), Senai Cimatec. Formado em engenharia elétrica pela UFPR e mestrado em engenharia de produção pela UFSC, atualmente é doutorando no curso de pós-graduação em Mecatrônica da UFBA.**|  
+| <figure><img src="assets/img/lucas_souza.jpeg" width="150" alt="Lucas Souza"> <figcaption>**Lucas Souza**</figcaption></figure>|**Estagiário no laboratório de Robótica e Sistemas Autônomos (RoSA), Senai Cimatec, graduando em Engenharia Elétrica no Senai Cimatec.**|   
+|<figure><img src="assets/img/marco.jpg" width="150" alt="Marco Reis"> <figcaption>**Marco Reis**</figcaption></figure>|**Lidera o grupo de Robótica e Sistemas Autônomos (RoSA), Senai Cimatec. Formado em engenharia elétrica pela UFPR e mestrado em engenharia de produção pela UFSC, atualmente é doutorando no curso de pós-graduação em Mecatrônica da UFBA.**|  
