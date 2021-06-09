@@ -12,7 +12,7 @@ Os veículos subaquáticos desempenham um importante papel nas atuais atividades
 
 Neste contexto, diversos estudos foram realizados para os UVMS com a finalidade de controle de posição do veículo. O manipulador acoplado faz parte de um sistema completo, tornando o veículo um conjunto único com o manipulador. Dessa forma, o controle da estabilidade da posição do veículo subaquático é trabalhado de forma a compensar as perturbações ocasionadas com o deslocamento do manipulador até o seu objetivo. Assim, quando o manipulador realizar o deslocamento até um ponto, a trajetória calculada será feita a partir de um ponto fixo. Deve-se enfazitar que se houver deslocamento devido as perturbações das correntezas oceânicas, o manipulador precisará interromper sua execução e realizar um novo planejamento. Por isso, este projeto visa estudar e comparar os métodos de técnicas de planejamento dinâmico de trajetória dos braços subaquáticos, levando em consideração as perturbações e/ou deslocamentos de sua base.
 
-A metodologia empregará um estudo dos algoritmos de planejamento de trajetória dinâmico para manipuladores, a partir de métodos estatísticos e comparativos. O desenvolvimento é feito padronizando os métodos e elementos para que sejam compatíveis com o framework de Sistema Operacional de Robô (ROS, do inglês *Robot Operation System*) na versão Noetic. Além disso, serão elaborados o SOTA, para as técnicas de planejadores dinâmicos e para os UVMS, a AHP, para estimar a técnica que mais se enquadra dentro da aplicação, e o DOE, para o planejamento dos testes que serão aplicados a cada método.
+A metodologia empregará um estudo dos algoritmos de planejamento de trajetória dinâmico para manipuladores, a partir de métodos estatísticos e comparativos. O desenvolvimento é feito padronizando os métodos e elementos para que sejam compatíveis com o framework de Sistema Operacional de Robô (ROS, do inglês *Robot Operation System*) na versão Noetic. 
 
 
 ## Equipe 
@@ -29,11 +29,9 @@ A metodologia empregará um estudo dos algoritmos de planejamento de trajetória
 
   </tr>
   <tr>
-    <td><center> Engenheiro de Computação</td>
-    <td><center> Estagiária no CC RoSA, graduanda em Eng. Elétrica.   
-      Participou de projetos de Robótica Subaquática   
-      e Manipuladores Subaquáticos</td>
-    <td><center>Mestre em Engenharia de Produção e Eng. Eletricista. Líder do projeto turBOT e do RoSA</td>
+    <td><center> Engenheiro da Computação, Especialista em Robótica e Sistemas Autonônomos. Responsável pelo planejamento dinâmico de trajetórias para manipuladores acoplados em robôs móveis. </td>
+    <td><center> Estagiária no CC RoSA, graduanda em Eng. Elétrica. Auxílio na pesquisa e desenvolvimento do projeto</td>
+    <td><center> Mestre em Engenharia de Produção e Eng. Eletricista. Líder do RoSA e do projeto.</td>
   </tr>
 </table>
 
