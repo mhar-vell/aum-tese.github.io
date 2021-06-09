@@ -4,7 +4,7 @@ title: Project-1
 subtitle: longe demais das capitais
 ---
 
-IMG BBOT
+![bbot](https://mhar-vell.github.io/projects/assets/img/bbot/bbot.png) 
 
 **Bbot** ou _Balancing Robot_, é um projeto de robô autônomo auto-balanceado. Nosso objetivo é construir um robô móvel operado via **ROS Noetic** capaz de **se equilibrar e se deslocar sobre duas rodas**. Ademais, ele deve ser capaz de realizar a leitura da uma TAG (marco fiducial). A TAG enviará ao robô uma posição de destino à qual ele deve **navegar de forma autônoma**. Para realizar a navegação, esse robô deverá ser capaz de **criar um mapa do local onde está e se localizar nele**, permitindo-o atualizar sua posição ao londo da missão e **desviar de obstáculos** enquanto navega até seu objetivo. 
 
