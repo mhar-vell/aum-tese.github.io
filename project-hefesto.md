@@ -40,5 +40,5 @@ O **hefesto** conta ainda com sensores que são responsáveis por aquisições d
 
 | <figure><img src="assets/img/matheus_franca.jpeg" width="150" alt="Matheus França"> <figcaption>**Matheus França**</figcaption></figure>|**Estagiário no laboratório de Robótica e Sistemas Autônomos (RoSA), Senai Cimatec, graduando em Engenharia de Controle e Automação na Área 1.**|
 |----------------|-----------|
-| <figure><img src="assets/img/breno_portela.jpeg" width="150" alt="Breno Portela"> <figcaption>**Breno Portela**</figcaption></figure>|**Bolsista no laboratório de Robótica e Sistemas Autônomos (RoSA), Senai Cimatec, graduado em Engenharia XX no Senai Cimatec.**|   
+| <figure><img src="assets/img/breno_portela.jpg" width="150" alt="Breno Portela"> <figcaption>**Breno Portela**</figcaption></figure>|**Bolsista no laboratório de Robótica e Sistemas Autônomos (RoSA), Senai Cimatec, graduado em Engenharia Mecânica no Senai Cimatec.**|   
 |<figure><img src="assets/img/marco.jpg" width="150" alt="Marco Reis"> <figcaption>**Marco Reis**</figcaption></figure>|**Lidera o grupo de Robótica e Sistemas Autônomos (RoSA), Senai Cimatec. Formado em engenharia elétrica pela UFPR e mestrado em engenharia de produção pela UFSC, atualmente é doutorando no curso de pós-graduação em Mecatrônica da UFBA.**|  
