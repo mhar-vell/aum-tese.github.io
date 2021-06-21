@@ -3,6 +3,7 @@ layout: page
 title: Walker
 subtitle: Um robô bípede
 ---
+![walker](assets/img/walker/walker_semelhantes.png)
 
 ## Introdução
 
