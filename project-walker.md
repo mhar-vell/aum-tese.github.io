@@ -3,13 +3,17 @@ layout: page
 title: Walker
 subtitle: Um robô bípede
 ---
-![walker](assets/img/walker/walker_semelhantes.png)
+
+<center>
+<img src="{{ 'assets/img/walker/walker_semelhantes.png' | relative_url }}" text-align=center alt="Semelhantes" />
+</center>
+<!--img src="assets/img/walker/walker_semelhantes.png" text-align=center alt="Semelhantes" /-->
 
 ## Introdução
 
 <!--img src="assets/img/walker/walker_semelhantes.png" width="350"
 ![walker-semelhantes](https://github.com/mhar-vell/projects/blob/master/assets/img/walker/walker_semelhantes.png)-->
-<img src="{{ 'assets/img/walker/walker_semelhantes.png' | relative_url }}" alt="Semelhantes" />
+<!--img src="{{ 'assets/img/walker/walker_semelhantes.png' | relative_url }}" alt="Semelhantes" /-->
 
 Este projeto visa a construção de um robô autônomo bípede para exploração em um ambiente indoor controlado.
 
@@ -18,7 +22,7 @@ A imagem anterior ilustra as principais referências utilizadas para o projeto.
 
 Da esquerda para direita: ROFI [1], Darwin-OP [2] e NAO [3]
 
-## Missão
+## Missão do sistema robótico
 <img src="{{ 'assets/img/walker/walker_missao.png' | relative_url }}" alt="Walker_missao" />
 <!--<td><img src="assets/img/walker/walker_missao.png" width="250"></td>-->
 
@@ -56,13 +60,10 @@ Dentre eles, os principais são:
   </tr>
 </table>
 
-<<<<<<< HEAD
 |<img src="{{ 'assets/img/brenda_alencar.png' | relative_url }}" alt="Not found" />| <img src="assets/img/felipe_mohr.png" width="200">|
 |--|--|
 | <p align="center">**Brenda Alencar**</p> | <p align="center">**Felipe Mohr**</p> |
 | <p align="center"> Estagiária no CC RoSA, graduanda em Eng. Elétrica. <br /> Participou de projetos de Robótica Subaquática e <br /> Manipuladores Subaquáticos  </p>| <p align="center"> Estagiário no CC RoSA, graduando em Eng. Elétrica. <br /> Participou de projetos de Robótica Subaquática e <br /> Robótica Móvel </p> |
-=======
->>>>>>> origin/walker
 
 
 ## Referências

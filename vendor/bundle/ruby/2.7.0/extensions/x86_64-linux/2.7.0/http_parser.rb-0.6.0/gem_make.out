@@ -1,0 +1,14 @@
+current directory: /home/mhar-vell/Insync/marco.a.reis@gmail.com/Google Drive/personal/rasprojects/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20210622-242584-1ox4jik.rb extconf.rb
+creating Makefile
+
+current directory: /home/mhar-vell/Insync/marco.a.reis@gmail.com/Google Drive/personal/rasprojects/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: /home/mhar-vell/Insync/marco.a.reis@gmail.com/Google Drive/personal/rasprojects/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR="
+compiling ruby_http_parser.c
+gcc: error: Drive/personal/rasprojects/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser: No such file or directory
+make: *** [Makefile:245: ruby_http_parser.o] Error 1
+
+make failed, exit code 2
