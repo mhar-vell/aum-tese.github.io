@@ -46,7 +46,7 @@ navbar-links:
     - Jetbot 2: "project-2"
     - Jetbot 3: "project-2"
     - Walker: "project-walker"
-    - bbot: "project-2"
+    - bbot: "project-bbot"
   About Us: "aboutus"
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
