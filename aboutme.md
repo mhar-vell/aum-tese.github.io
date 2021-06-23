@@ -1,8 +1,15 @@
 ---
 layout: page
-title: About me
+title: about me
 subtitle: longe demais das capitais
 ---
+<a href="https://mhar-vell.github.io/portfolio/index.html">
+    <center>
+        <img src="{{ 'assets/img/profile-marcoreis.jpg' | relative_url }}" width="100" class="img-fluid rounded-circle"/><br/>
+    </center>
+</a>
+
+
 Era uma tarde de férias de 1984, na televisão era transmitido o filme O Império Contra-Ataca, na época era o segundo filme da série Star Wars. Então me encontrei com Luke e o sinistro Darth Vader num mundo fascinante e altamente fora da realidade. Um filme do futuro (um ponto importante eu ainda não havia assistido o primeiro filme), mas o que mais me fascinou foi a forma como os humanos se relacionavam com a tecnologia, com os ditos cujos robots e as naves espaciais. Aquilo chamou a minha intenção e decidi que iria criar robots e máquinas voadores do espaço.
 
 ![sw-2](https://takodana.files.wordpress.com/2016/01/star-wars-empire-strikes-back-poster.jpg?w=1024&h=1448)
@@ -12,18 +19,14 @@ Era uma tarde de férias de 1984, na televisão era transmitido o filme O Impér
 
 Muitos associam a tecnologia a uma imagem crua e cinza do alumínio, a solidez e a resistência do aço, ao formato padronizado do plástico, a submissão a um aplicativo central… levando nos a um pensamento de frieza e de pouca maleabilidade. Além disso somos levados a crer que dominamos a tecnologia ou que a desenvolvemos para o nossos benefícios porém sabemos que pouco a pouco somos levados a depender cada vez mais dela. Nos submetemos dia-a-dia ao domínio perverso das conversas de chats, aos posts desatualizados que precisam ser atualizados.
 
-Passamos a ser dominados e não dominantes.
-
-Passamos a marchar conforme o compasso dos aplicativos. A entender a ótica do computador.
-
-E o que era para ser um meio…se torna um fim.
-
-É hora de repensarmos a maneira como fazemos da tecnologia nossa aliada.
-
-É hora de fazermos dos aplicativos, tintas para as telas da tecnologia que os pincéis descreverão numa paisagem futurística.
-
-É preciso pensar a tecnologia como uma arte. E a arte é algo mutável, sem limites, sem donos.
-
+<strong>
+Passamos a ser dominados e não dominantes.<br>
+Passamos a marchar conforme o compasso dos aplicativos. A entender a ótica do computador.<br>
+E o que era para ser um meio…se torna um fim.<br>
+É hora de repensarmos a maneira como fazemos da tecnologia nossa aliada.<br>
+É hora de fazermos dos aplicativos, tintas para as telas da tecnologia que os pincéis descreverão numa paisagem futurística.<br>
+É preciso pensar a tecnologia como uma arte. E a arte é algo mutável, sem limites, sem donos.<br>
+</strong>
 
 ### Short bio
 
