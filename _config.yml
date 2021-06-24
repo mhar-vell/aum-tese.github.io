@@ -27,7 +27,7 @@ navbar-links:
     - Warthog: ""
     - Moco: ""
     - Droilt: ""
-    - AUM: ""
+    - AUM: "project-aum"
     - Turbot: "project-turbot"
     - Ergo: ""
     - Jetbot 1: ""
