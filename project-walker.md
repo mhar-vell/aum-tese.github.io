@@ -45,7 +45,7 @@ Dentre eles, os principais são:
 
 ## Equipe
 
-<img src="{{ 'assets/img/profile-marcoreis.jpg' | relative_url }}" width="100" alt="felipe" class="img-fluid rounded-circle"/>
+<img src="{{ 'assets/img/profile-marcoreis.jpg' | relative_url }}" width="100" alt="marco" class="img-fluid rounded-circle"/>
 
 <table border="0">
   <tr>
