@@ -85,13 +85,13 @@ Testes preliminares também estão sendo realizados em laboratório, onde alguns
 <br>
 
 ### Resumo do Projeto
-1. Categoria: Manipuladores
-2. Prazo: 02 anos
+1. Categoria: <font color="#fbb117">Manipulador</font>
+2. Prazo: <font color="#fbb117">02 anos</font>
 3. Data de início: <font color="#fbb117">23/novembro/2020</font>
 4. Data de término: <font color="#fbb117">28/outubro/2022</font>
 5. Repositório URL: 
 6. Sponsor: <a href="http://www.senaicimatec.com.br/en/"><font color="#fbb117">Senai CIMATEC</font></a>
-7. Recursos materiais: US$
+7. Recursos materiais: <font color="#fbb117">US$</font>
 8. Apresentação URL:
 9. Report URL: 
 10. Artigos relacionados: 
