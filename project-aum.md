@@ -13,7 +13,7 @@ subtitle: Planejamento dinâmico de trajetórias de manipuladores subaquáticos
 {%- endcapture -%}
 {%- assign tags_list = site_tags | split:',' | sort -%}
 
-<center><img src="{{ 'assets/img/aum/mohan-model.png' | relative_url }}" text-align=center width="500" alt="Mohan" /><br></center>
+<center><img style="border:5px solid black;" src="{{ 'assets/img/aum/mohan-model.png' | relative_url }}" text-align=center width="500" alt="Mohan" /><br></center>
 
 <div class="before-content">
   <center>

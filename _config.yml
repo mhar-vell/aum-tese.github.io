@@ -23,6 +23,11 @@ navbar-links:
   #   - Manisub: "project-1"
   in Academy:
     - Pong: ""
+    - Jetbot 1: ""
+    - Jetbot 2: ""
+    - Jetbot 3: ""
+    - Walker: "project-walker"
+    - bbot: ""
   making:
     - Warthog: ""
     - Moco: ""
@@ -30,11 +35,7 @@ navbar-links:
     - AUM: "project-aum"
     - Turbot: "project-turbot"
     - Ergo: ""
-    - Jetbot 1: ""
-    - Jetbot 2: ""
-    - Jetbot 3: ""
-    - Walker: "project-walker"
-    - bbot: ""
+    - Hephaestus: ""
   accomplished:
     - Elir: ""
     - Learnbotics: ""
