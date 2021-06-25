@@ -42,11 +42,11 @@ Testes preliminares também estão sendo realizados em laboratório, onde alguns
       <table class="table-borderless highlight">
         <thead>
           <tr>
-            <th><center><img src="{{ 'assets/img/people/andersonvale1.png' | relative_url }}" width="100" alt="andersonqueiroz" class="img-fluid rounded-circle" /></center></th>
+            <th><center><img src="{{ 'assets/img/people/andersonvale-1.png' | relative_url }}" width="100" alt="andersonqueiroz" class="img-fluid rounded-circle" /></center></th>
             <th></th>
-            <th><center><img src="{{ 'assets/img/people/brendaalencar.jpeg' | relative_url }}" width="100" alt="brenda" class="img-fluid rounded-circle"/></center></th>
+            <th><center><img src="{{ 'assets/img/people/brendaalencar-1.png' | relative_url }}" width="100" alt="brenda" class="img-fluid rounded-circle"/></center></th>
             <th></th>
-            <th><center><img src="{{ 'assets/img/people/marcoreis8b&w.png' | relative_url }}" width="100" alt="marco" class="img-fluid rounded-circle"/></center></th>
+            <th><center><img src="{{ 'assets/img/people/marcoreis8b&w-1.png' | relative_url }}" width="100" alt="marco" class="img-fluid rounded-circle"/></center></th>
           </tr>
         </thead>
         <tbody>
