@@ -1,0 +1,16 @@
+current directory: /home/mhar-vell/Insync/marco.a.reis@gmail.com/Google Drive/personal/projects/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20210621-173151-165ojcz.rb extconf.rb
+creating Makefile
+
+current directory: /home/mhar-vell/Insync/marco.a.reis@gmail.com/Google Drive/personal/projects/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /home/mhar-vell/Insync/marco.a.reis@gmail.com/Google Drive/personal/projects/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /home/mhar-vell/Insync/marco.a.reis@gmail.com/Google Drive/personal/projects/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20210621-173151-5uwnwi
