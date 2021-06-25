@@ -42,7 +42,10 @@ layout: page
 {% assign posts = paginator.posts | default: site.posts %}
 
 <div class="posts-list">
-  {% for post in posts %}
+  <center>
+    <h3 class="post-title"><font color="#fbb117">Recent Posts</font></h3>
+  </center>
+  {% for post in posts offset:1 limit:4 %}
   <article class="post-preview">
 
     {%- capture thumbnail -%}
@@ -139,6 +142,7 @@ layout: page
 </ul>
 {% endif %}
 
+<hr class="mark">
 <div id="full-tags-list">
   {%- for tag in tags_list -%}
       <h2 id="{{- tag -}}" class="linked-section">
