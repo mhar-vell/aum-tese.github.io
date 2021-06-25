@@ -3,10 +3,27 @@ layout: page
 title: AUM
 subtitle: Planejamento dinâmico de trajetórias de manipuladores subaquáticos
 ---
+{% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+{%- capture site_tags -%}
+    {%- for tag in site.tags -%}
+      {% if tag contains 'aum' %}
+        {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%}
+      {% endif %} 
+    {%- endfor -%}
+{%- endcapture -%}
+{%- assign tags_list = site_tags | split:',' | sort -%}
 
-<center>
-<img src="{{ 'assets/img/aum/mohan-model.png' | relative_url }}" text-align=center width="500" alt="Mohan" />
-</center><br>
+<center><img src="{{ 'assets/img/aum/mohan-model.png' | relative_url }}" text-align=center width="500" alt="Mohan" /><br></center>
+
+<div class="before-content">
+  <center>
+    {%- for tag in tags_list -%}
+      <br>
+      <a href="#{{- tag -}}" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})</a>
+    {%- endfor -%}
+  </center>    
+  <hr class="mark">
+</div>
 
 ## Desenvolvendo um modelo
 A interação veículo-manipulador subaquático é uma das principais novas áreas de estudo para a pesquisa subaquática, pois inclui movimento acoplado e incertezas de parâmetros \cite{Mohan2015}. Segundo \citeonline{Mohan2015}, esses veículos começaram a desempenhar um papel vital nas atividades submarinas, incluindo, mas não se limitando, à exploração do fundo do mar, petróleo offshore, investigações militares e científicas. A dinâmica não-linear acoplada entre o veículo e o braço do manipulador apresenta desafios únicos no ambiente submarino \cite{Mohan2015Londhe}.
@@ -32,40 +49,36 @@ Testes preliminares também estão sendo realizados em laboratório, onde alguns
 
 <br>
 
-
-<center>
-  <h3 class="post-title">Equipe de desenvolvimento</h3><br/>
-</center>
+<center><h3 class="post-title">Equipe de desenvolvimento</h3><br/></center>
 <div class="row">
-
   <div class=" col-xl-auto offset-xl-0 col-lg-4 offset-lg-0">
-      <table class="table-borderless highlight">
-        <thead>
-          <tr>
-            <th><center><img src="{{ 'assets/img/people/andersonvale-1.png' | relative_url }}" width="100" alt="andersonqueiroz" class="img-fluid rounded-circle" /></center></th>
-            <th></th>
-            <th><center><img src="{{ 'assets/img/people/brendaalencar-1.png' | relative_url }}" width="100" alt="brenda" class="img-fluid rounded-circle"/></center></th>
-            <th></th>
-            <th><center><img src="{{ 'assets/img/people/marcoreis8b&w-1.png' | relative_url }}" width="100" alt="marco" class="img-fluid rounded-circle"/></center></th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr class="font-weight-bolder" style="text-align: center margin-top: 0">
-            <td width="33.33%">Anderson Queiroz</td>
-            <td></td>
-            <td width="33.33%">Brenda Alencar</td>
-            <td></td>
-            <td width="33.33%">Marco Reis</td>
-          </tr>
-          <tr style="text-align: center" >
-            <td style="vertical-align: top"><small>Pesquisador Jr. do projeto <br>Engenheiro da Computação, Especialista em Robótica e Sistemas Autonônomos.</small></td>
-            <td></td>
-            <td style="vertical-align: top"><small>Estagiária no CC RoSA, graduanda em Eng. Elétrica.</small></td>
-            <td></td>
-            <td style="vertical-align: top"><small>Pesquisador Sênior do projeto <br>Mestre em Engenharia de Produção e Eng. Eletricista.</small></td>
-          </tr>
-        </tbody>
-      </table>
+    <table class="table-borderless highlight">
+      <thead>
+        <tr>
+          <th><center><img src="{{ 'assets/img/people/andersonvale-1.png' | relative_url }}" width="100" alt="andersonqueiroz" class="img-fluid rounded-circle" /></center></th>
+          <th></th>
+          <th><center><img src="{{ 'assets/img/people/brendaalencar-1.png' | relative_url }}" width="100" alt="brenda" class="img-fluid rounded-circle"/></center></th>
+          <th></th>
+          <th><center><img src="{{ 'assets/img/people/marcoreis8b&w-1.png' | relative_url }}" width="100" alt="marco" class="img-fluid rounded-circle"/></center></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="font-weight-bolder" style="text-align: center margin-top: 0">
+          <td width="33.33%">Anderson Queiroz</td>
+          <td></td>
+          <td width="33.33%">Brenda Alencar</td>
+          <td></td>
+          <td width="33.33%">Marco Reis</td>
+        </tr>
+        <tr style="text-align: center" >
+          <td style="vertical-align: top"><small>Pesquisador Jr. do projeto <br>Engenheiro da Computação, Especialista em Robótica e Sistemas Autonônomos.</small></td>
+          <td></td>
+          <td style="vertical-align: top"><small>Estagiária no CC RoSA, graduanda em Eng. Elétrica.</small></td>
+          <td></td>
+          <td style="vertical-align: top"><small>Pesquisador Sênior do projeto <br>Mestre em Engenharia de Produção e Eng. Eletricista.</small></td>
+        </tr>
+      </tbody>
+    </table>
   </div>
 </div>
 
@@ -90,3 +103,27 @@ Testes preliminares também estão sendo realizados em laboratório, onde alguns
 SANTHAKUMAR, M.;  KIM, J. Robust adaptive tracking control of autonomous underwater vehicle-manipulator systems.Journal  of  Dynamic  Systems,  Measurement,and Control, American Society of Mechanical Engineers Digital Collection, v. 136, n. 5,2014.  
 ##### 2 
 DANNIGAN, M.; RUSSELL, G. T. Evaluation and reduction of the dynamic coupling between a manipulator and an underwater vehicle.IEEE Journal of Oceanic Engineering,IEEE, v. 23, n. 3, p. 260–273, 1998.   
+
+
+
+
+<br>
+<hr class="mark">
+<div id="full-tags-list">
+  {%- for tag in tags_list -%}
+      <h2 id="{{- tag -}}" class="linked-section">
+          <i class="fas fa-tag" aria-hidden="true"></i>
+          &nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})
+      </h2>
+      <div class="post-list">
+          {%- for post in site.tags[tag] -%}
+              <div class="tag-entry">
+                  <a href="{{ post.url | relative_url }}">{{- post.title -}}</a>
+                  <div class="entry-date">
+                      <time datetime="{{- post.date | date_to_xmlschema -}}">{{- post.date | date: date_format -}}</time>
+                  </div>
+              </div>
+          {%- endfor -%}
+      </div>
+  {%- endfor -%}
+</div>
