@@ -27,7 +27,7 @@ navbar-links:
     - Jetbot 2: ""
     - Jetbot 3: ""
     - Walker: "project-walker"
-    - bbot: ""
+    - bbot: "project-bbot"
   making:
     - Warthog: ""
     - Moco: ""
@@ -50,7 +50,7 @@ navbar-links:
     - WBM Orb2slam: ""
     - WBM EKFslam: ""
     - r-hope: ""
-  
+    
   About Us: "aboutus"
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
