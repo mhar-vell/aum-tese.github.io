@@ -39,7 +39,7 @@ navbar-links:
   accomplished:
     - Elir: ""
     - Learnbotics: ""
-    - Doogie: ""
+    - Doogie: "project-doogie"
     - Birhex: ""
     - Open Manipulator: ""
     - Dynamic End-Effector: ""
