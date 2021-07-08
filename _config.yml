@@ -29,7 +29,7 @@ navbar-links:
     - Walker: "project-walker"
     - bbot: "project-bbot"
   making:
-    - Warthog: ""
+    - Warthog: "project-warthog"
     - Moco: ""
     - Droilt: ""
     - AUM: "project-aum"
