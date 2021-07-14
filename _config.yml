@@ -23,7 +23,7 @@ navbar-links:
   #   - Manisub: "project-1"
   in Academy:
     - Pong: ""
-    - Jetbot 1: ""
+    - Jetbot 1: "project-vertbot"
     - Jetbot 2: ""
     - Jetbot 3: ""
     - Walker: "project-walker"
