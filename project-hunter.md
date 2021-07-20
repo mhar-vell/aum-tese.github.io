@@ -4,13 +4,14 @@ title: Hunter
 subtitle: Jetson Nano Differencial Wheeled Robot
 ---
 
-## O Jetbot
+ O Hunter é um projeto de um robô de tração diferencial autônomo, que utiliza a plataforma [NVIDIA Jetson Nano Developer Kit](https://developer.nvidia.com/embedded/jetson-nano-developer-kit) como base de desenvolvimento. O objetivo deste projeto é desenvolver um robô que seja capaz de navegar em um ambiente desconhecido, realizando mapeamento, localização e ***obstacle avoidance***, e encontrar objetos dispostos no ambiente. Esta tarefa de busca estará associada a identificação de um marco fiducial, que apontará uma localização de um novo objeto a ser atingido. Assim, a tarefa é cumprida quando o robô encontra o marco, segue até a localização apontada e encontra o objeto buscado.
+## Percepção
 
-O jetbot é um robô de código aberto baseado na placa de desenvolvimento Jetson Nano da Nvidia. 
+## Atuação
 
-## Objetivo
+## Sistema
 
-O projeto tem o objetivo de...
+## Construção
 
 
 
