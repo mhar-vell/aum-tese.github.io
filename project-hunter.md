@@ -4,15 +4,31 @@ title: Hunter
 subtitle: Jetson Nano Differencial Wheeled Robot
 ---
 
- O Hunter é um projeto de um robô de tração diferencial autônomo, que utiliza a plataforma [NVIDIA Jetson Nano Developer Kit](https://developer.nvidia.com/embedded/jetson-nano-developer-kit) como base de desenvolvimento. O objetivo deste projeto é desenvolver um robô que seja capaz de navegar em um ambiente desconhecido, realizando mapeamento, localização e ***obstacle avoidance***, e encontrar objetos dispostos no ambiente. Esta tarefa de busca estará associada a identificação de um marco fiducial, que apontará uma localização de um novo objeto a ser atingido. Assim, a tarefa é cumprida quando o robô encontra o marco, segue até a localização apontada e encontra o objeto buscado.
-## Percepção
+![hunter](/assets/img/hunter/hunter.png)
 
-## Atuação
+Robôs autônomos são sistemas que podem operar em ambientes imprevisíveis e parcialmente desconhecidos, tendo a capacidade de realizar uma navegação ininterrupta e desviar de obstáculos. Neste contexto, se destaca o robô de tração diferencial, que possui uma simples construção, boa manobrabilidade [[1]](https://ieeexplore.ieee.org/document/9007654).
 
-## Sistema
+O Hunter é um projeto de um robô de tração diferencial autônomo, que utiliza a plataforma [NVIDIA Jetson Nano Developer Kit](https://developer.nvidia.com/embedded/jetson-nano-developer-kit) como base de desenvolvimento. O objetivo deste projeto é desenvolver um robô que seja capaz de navegar em um ambiente desconhecido, realizando mapeamento, localização e ***obstacle avoidance***, e encontrar objetos dispostos no ambiente. Esta tarefa de busca estará associada a identificação de um marco fiducial, que apontará uma localização de um novo objeto a ser atingido. Assim, a tarefa é cumprida quando o robô encontra o marco, segue até a localização apontada e encontra o objeto buscado.
 
-## Construção
+A principal vantagem de utilizar o Hunter é a disponibilidade de um sistema embarcado capaz de rodar múltiplas redes neurais em paralelo, que possibilita a aplicação de classificação de imagem, detecção de objetos, etc. Esta capacidade permite que técnicas modernas de odometria, localização e mapeamento possam ser embarcada neste robô diferencial, assim elevando o nível cognição do sistema.
 
+
+## Detalhamento
+
+
+
+### Resumo do Projeto
+
+1. Categoria: Robótica móvel
+2. Prazo: 14 semanas
+3. Data de início: 17/05/2021
+4. Data de término: 21/08/2021
+5. Repositório URL: [Hunter](https://github.com/Brazilian-Institute-of-Robotics/bir_jetbot-3)
+6. Sponsor: [SENAI CIMATEC](http://www.senaicimatec.com.br/en/)
+7. Recursos materiais: US$
+8. Apresentação URL: [Hunter-docs](https://github.com/Brazilian-Institute-of-Robotics/bir_jetbot-3-docs)
+9. Report URL:[Hunter-docs](https://github.com/Brazilian-Institute-of-Robotics/bir_jetbot-3-docs)
+10. Artigos relacionados: -
 
 
 <!-- equipe -->
