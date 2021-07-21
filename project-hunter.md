@@ -3,6 +3,17 @@ layout: page
 title: Hunter
 subtitle: Jetson Nano Differencial Wheeled Robot
 ---
+{% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+{%- capture site_tags -%}
+    {%- for tag in site.tags -%}
+      {% if tag contains 'hunter' %}
+        {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%}
+      {% endif %} 
+    {%- endfor -%}
+{%- endcapture -%}
+{%- assign tags_list = site_tags | split:',' | sort -%}
+
+
 ![hunter](/assets/img/hunter/hunter.png)
 
 Robôs autônomos são sistemas que podem operar em ambientes imprevisíveis e parcialmente desconhecidos, tendo a capacidade de realizar uma navegação ininterrupta e desviar de obstáculos. Neste contexto, se destaca o robô de tração diferencial, que possui uma simples construção, boa manobrabilidade [[1]](https://ieeexplore.ieee.org/document/9007654).
@@ -77,3 +88,28 @@ Simulação do hunter baseado em modelo URDF (Unified robot description format) 
 </div>
 
 <br>
+
+
+
+<br>
+<hr class="mark">
+<div id="full-tags-list">
+<h3 class="post-title"><font color="#fbb117">Posts</font></h3>
+  {%- for tag in tags_list -%}
+      <h4 id="{{- tag -}}" class="linked-section">
+          <i class="fas fa-tag" aria-hidden="true"></i>
+          &nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})
+      </h4>
+      <div class="post-list">
+          {%- for post in site.tags[tag] -%}
+              <div class="tag-entry">
+                  <a href="{{ post.url | relative_url }}">{{- post.title -}}</a>
+                  <div class="entry-date">
+                      <time datetime="{{- post.date | date_to_xmlschema -}}">{{- post.date | date: date_format -}}</time>
+                  </div>
+              </div>
+          {%- endfor -%}
+      </div>
+  {%- endfor -%}
+</div>
+<hr class="mark">
