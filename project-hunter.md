@@ -5,15 +5,21 @@ subtitle: Jetson Nano Differencial Wheeled Robot
 ---
 
  O Hunter é um projeto de um robô de tração diferencial autônomo, que utiliza a plataforma [NVIDIA Jetson Nano Developer Kit](https://developer.nvidia.com/embedded/jetson-nano-developer-kit) como base de desenvolvimento. O objetivo deste projeto é desenvolver um robô que seja capaz de navegar em um ambiente desconhecido, realizando mapeamento, localização e ***obstacle avoidance***, e encontrar objetos dispostos no ambiente. Esta tarefa de busca estará associada a identificação de um marco fiducial, que apontará uma localização de um novo objeto a ser atingido. Assim, a tarefa é cumprida quando o robô encontra o marco, segue até a localização apontada e encontra o objeto buscado.
-## Percepção
+## Detalhamento
+![componentes](/assets/img/hunter/components.png)
 
-## Atuação
+O hunter utilizará sensores externos que serão utilizados
+na sua navegação e na percepção do ambiente, sendo os principais
+sensores:
+- Stereo camera: Controle de odometria
+- Raspicam : Será utilizada para detectar o marco fiducial (tag) no ambiente
+- Sensor ultrassônico HC-SR04: Permitirá a indentificação de obstaculos possibilitando a navegação de forma autônoma
+- Sensor LiDAR: Auxiliará no mapeamento do ambiente e deslocamento simultâneo
 
-## Sistema
+## Simulação
+![componentes](/assets/img/hunter/hunter_gazebo.png)
 
-## Construção
-
-
+Simulação do hunter baseado em modelo URDF (Unified robot description format) no Gazebo
 
 <!-- equipe -->
 <center><h3 class="post-title">Equipe de desenvolvimento</h3><br/></center>
