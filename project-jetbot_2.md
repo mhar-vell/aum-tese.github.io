@@ -5,7 +5,7 @@ subtitle: Robô autônomo diferencial
 ---
 
 <center>
-<img src="{{ 'assets/img/aperea/jetbot.png' | relative_url }}" text-align=center alt="nvidiaJetbot" />
+<img src="{{ 'assets/img/aperea/aperea.png' | relative_url }}" width="300" text-align=center alt="nvidiaJetbot" />
 </center>
 
 ## INTRODUÇÃO
@@ -17,10 +17,10 @@ O Projeto Aperea Jetbot II almeja utilizar alguns dos benefícios gerados do elo
 Conforme ilustrado na Figura abaixo, o robô deverá ser capaz de buscar e reconhecer uma tag no ambiente. A tag indicará a localização de uma bola na cor laranja. E, a partir desta informação, o robô deverá encontrar esta bola.
 
 <center>
-<img src="{{ 'assets/img/aperea/jetbotmission.png' | relative_url }}" text-align=center alt="missao" />
+<img src="{{ 'assets/img/aperea/jetbot_mission.png' | relative_url }}" text-align=center alt="missao" />
 </center>
 
-O projeto teve inicio em 07/05/2021, possui uma duração estimada de 58 dias e tem sua conclusão prevista para 30/07/2021. A execução deste projeto irá propor, aos seus respectivos desenvolvedores, conhecimentos direcionados a robótica móvel, além de experiências voltadas ao gerenciamento de projetos. Ambos ganhos são importantes na formação de pesquisadores e desenvolvedores com alvo em sistemas robóticos.
+O projeto teve início em 07/05/2021, possui uma duração estimada de 58 dias e tem sua conclusão prevista para 30/07/2021. A execução deste projeto irá propor, aos seus respectivos desenvolvedores, conhecimentos direcionados a robótica móvel, além de experiências voltadas ao gerenciamento de projetos. Ambos ganhos são importantes na formação de pesquisadores e desenvolvedores com alvo em sistemas robóticos.
 
 <br>
 
