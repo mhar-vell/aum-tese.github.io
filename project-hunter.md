@@ -3,7 +3,6 @@ layout: page
 title: Hunter
 subtitle: Jetson Nano Differencial Wheeled Robot
 ---
-
 ![hunter](/assets/img/hunter/hunter.png)
 
 Robôs autônomos são sistemas que podem operar em ambientes imprevisíveis e parcialmente desconhecidos, tendo a capacidade de realizar uma navegação ininterrupta e desviar de obstáculos. Neste contexto, se destaca o robô de tração diferencial, que possui uma simples construção, boa manobrabilidade [[1]](https://ieeexplore.ieee.org/document/9007654).
@@ -12,10 +11,21 @@ O Hunter é um projeto de um robô de tração diferencial autônomo, que utiliz
 
 A principal vantagem de utilizar o Hunter é a disponibilidade de um sistema embarcado capaz de rodar múltiplas redes neurais em paralelo, que possibilita a aplicação de classificação de imagem, detecção de objetos, etc. Esta capacidade permite que técnicas modernas de odometria, localização e mapeamento possam ser embarcada neste robô diferencial, assim elevando o nível cognição do sistema.
 
+ ## Detalhamento
+![componentes](/assets/img/hunter/components.png)
 
-## Detalhamento
+O hunter utilizará sensores externos que serão utilizados
+na sua navegação e na percepção do ambiente, sendo os principais
+sensores:
+- Stereo camera: Controle de odometria
+- Raspicam : Será utilizada para detectar o marco fiducial (tag) no ambiente
+- Sensor ultrassônico HC-SR04: Permitirá a indentificação de obstaculos possibilitando a navegação de forma autônoma
+- Sensor LiDAR: Auxiliará no mapeamento do ambiente e deslocamento simultâneo
 
+## Simulação
+![componentes](/assets/img/hunter/hunter_gazebo.png)
 
+Simulação do hunter baseado em modelo URDF (Unified robot description format) no Gazebo
 
 ### Resumo do Projeto
 
@@ -29,6 +39,7 @@ A principal vantagem de utilizar o Hunter é a disponibilidade de um sistema emb
 8. Apresentação URL: [Hunter-docs](https://github.com/Brazilian-Institute-of-Robotics/bir_jetbot-3-docs)
 9. Report URL:[Hunter-docs](https://github.com/Brazilian-Institute-of-Robotics/bir_jetbot-3-docs)
 10. Artigos relacionados: -
+
 
 
 <!-- equipe -->
